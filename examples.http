@@ -1,0 +1,30 @@
+POST http://localhost:8080/ai-reality-check
+Content-Type: application/json
+
+{
+  "prompt": "In one or two sentences, explain to a frustrated Java developer why Python is always the first choice for AI, but make it sound like it’s not a big deal."
+}
+
+###
+
+POST http://localhost:8080/posts
+Content-Type: application/json
+
+{
+  "link": "https://docs.spring.io/spring-ai/reference/api/prompt.html",
+  "platform": "Instagram",
+  "audience": "preschool",
+  "actor": "CONTENT_CREATOR"
+}
+
+###
+
+POST http://localhost:8080/posts
+Content-Type: application/json
+
+{
+  "link": "https://docs.spring.io/spring-ai/reference/api/prompt.html",
+  "platform": "Instagram",
+  "audience": "preschool",
+  "actor": "POET"
+}
