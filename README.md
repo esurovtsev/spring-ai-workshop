@@ -9,6 +9,13 @@ The application provides REST endpoints that utilize OpenAI's language models th
 - Create social media posts with different personas
 - Process and transform content based on specific requirements
 
+## Branches
+
+### feature/spring-ai-structured-output
+Demonstrates working with structured output in Spring AI, showing how to properly handle and process structured responses from AI models.
+
+📺 Watch the implementation video: [Spring AI Structured Output Tutorial](https://youtube.com/watch?v=PLACEHOLDER)
+
 ## Prerequisites
 
 - Java 17 or higher
