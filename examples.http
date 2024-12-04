@@ -28,3 +28,17 @@ Content-Type: application/json
   "audience": "preschool",
   "actor": "POET"
 }
+
+###
+
+POST http://localhost:8080/structured-output-with-chat-client
+Content-Type: application/json
+
+// This endpoint returns an Article object with title, content, and tags
+// No request body is needed as the prompt is defined server-side
+
+###
+
+POST http://localhost:8080/structured-output-with-chat-model
+Content-Type: application/json
+
