@@ -14,7 +14,7 @@ The application provides REST endpoints that utilize OpenAI's language models th
 ### feature/spring-ai-structured-output
 Demonstrates working with structured output in Spring AI, showing how to properly handle and process structured responses from AI models.
 
-📺 Watch the implementation video: [Spring AI Structured Output Tutorial](https://youtube.com/watch?v=PLACEHOLDER)
+📺 Watch the implementation video: [Spring AI Structured Output Tutorial](https://youtu.be/IjHgnrFGtIM?si=1sVIi9QXJgKd428j)
 
 ## Prerequisites
 
